@@ -47114,7 +47114,7 @@ $S:38}
 F.pG.prototype={
 aH:function(){return new F.EG(C.l)}}
 F.EG.prototype={
-M:function(a,b){var s=null,r=L.a2M("Flutter - tutorialkart.com",s)
+M:function(a,b){var s=null,r=L.a2M("Flutter-hola - tutorialkart.com",s)
 return new M.qC(new E.nX(r,new P.a4(1/0,56),s),T.HO(new N.r3(this.d,new F.VC(this),C.xc,C.xa,s),s,s),s)}}
 F.VC.prototype={
 $1:function(a){var s=this.a
